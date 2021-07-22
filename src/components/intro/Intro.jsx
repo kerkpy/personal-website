@@ -33,8 +33,29 @@ export default function Intro() {
                     <h2>Hi There! I am</h2>
                     <h1>Kerk Pei Yong</h1>
                     <h3><span ref={textRef}></span></h3>
+                    <h3><a rel="noreferrer" target="_blank" href = "https://drive.google.com/file/d/1jvz0iaf8x-c2awbRVdhzkfthwYLtSF7A/view?usp=sharing">Link to Resume</a></h3>
 
-                    <a href="#portfolio">
+                    <div className="shortintro">
+                        <p>I am currently a 2nd Year student studying Computer Science and Business Administration (Double Degree) at NUS.
+                        I am expected to graduate in December 2023. </p>
+
+                        <br/>
+                        
+                        <p>I believe that technology can make a positive difference to the world. As such, I aspire to be the best programmer that I can be and hope to be of service to 
+                        others. I seek every opportunity to improve myself.</p> 
+                        
+                        <br/>
+
+                        <p>In my free time, I enjoy exercising (in particular, canoeing). A fun fact would be that I had previously coached a school team for the sport.</p>
+                        
+                        <br/>
+
+                        <p>Through the website, I hope that you will get to know me better. </p>
+
+                    </div>
+
+
+                    <a className = "expand" href="#portfolio">
                     <ExpandMoreIcon/>
                 
                     </a>
