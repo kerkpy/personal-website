@@ -52,6 +52,10 @@ export default function Intro() {
 
                         <p>Through the website, I hope that you will get to know me better. </p>
 
+                        <br/>
+
+                        <p>*There might be a bug on Google Chrome that causes pages to skip. To overcome this, you can navigate through the pages using the "Down" arrow key.</p>
+
                     </div>
 
 
