@@ -23,7 +23,7 @@ export default function Works() {
                 <div className="container">
                     <div className="item">
                         <div className="left">
-                                    <img src ="../assets/ocbc-og.PNG" alt="ocbc"/>
+                                    <img src ="assets/ocbc-og.PNG" alt="ocbc"/>
                         </div>
 
                         <div className="right">
@@ -59,7 +59,7 @@ export default function Works() {
                         <div className="left">
 
                             
-                                    <img src ="../assets/sw.png" alt="sw"/>
+                                    <img src ="assets/sw.png" alt="sw"/>
 
                                     
                                 
@@ -99,7 +99,7 @@ export default function Works() {
                         <div className="left">
 
                             
-                                    <img src ="../assets/hcanoe.PNG" alt="hc"/>
+                                    <img src ="assets/hcanoe.PNG" alt="hc"/>
 
                                     
                         </div>
@@ -141,7 +141,7 @@ export default function Works() {
                         <div className="left">
 
                             
-                                    <img src ="../assets/elite.jpg" alt="elite"/>
+                                    <img src ="assets/elite.jpg" alt="elite"/>
 
                                     
                                 
@@ -180,7 +180,7 @@ export default function Works() {
                         <div className="left">
 
                             
-                                    <img src ="../assets/saf.png" alt="saf"/>
+                                    <img src ="assets/saf.png" alt="saf"/>
 
                                     
                                 

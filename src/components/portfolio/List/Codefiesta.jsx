@@ -7,7 +7,7 @@ export default function codefiesta() {
 
             <div className="item">
 
-                <img src="../../assets/sociasg.PNG" alt="sociasg" ></img>
+                <img src="assets/sociasg.PNG" alt="sociasg" ></img>
 
                 
 

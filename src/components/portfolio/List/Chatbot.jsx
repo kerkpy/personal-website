@@ -4,7 +4,7 @@ export default function Chatbot() {
 
             <div className="item">
 
-                <img src="../../assets/my-first-app.png" alt="chatbot" ></img>
+                <img src="assets/my-first-app.png" alt="chatbot" ></img>
 
                 
 

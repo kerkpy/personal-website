@@ -4,7 +4,7 @@ export default function Scheduler() {
 
             <div className="item">
 
-                <img src="../../assets/scheduler.png" alt="scheduler" ></img>
+                <img src="assets/scheduler.png" alt="scheduler" ></img>
 
                 
 

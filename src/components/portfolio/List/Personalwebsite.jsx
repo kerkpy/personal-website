@@ -5,7 +5,7 @@ export default function Personalwebsite() {
 
             <div className="item">
 
-                <img src="../../assets/personal-website.PNG" alt="personalweb" ></img>
+                <img src="assets/personal-website.PNG" alt="personalweb" ></img>
 
                 
 
