@@ -1,3 +1,100 @@
 .works{
-    background-color: lightgreen;
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    flex-direction: column;
+    
+    .title{
+        color: black;
+        z-index: 3;
+        
+    }
+    .arrow{
+        height: 50px;
+        position: absolute;
+        cursor: pointer;
+
+        &.left{
+            left: 100px;
+            transform: rotateY(180deg);
+
+        }
+
+        &.right {
+            right: 100px;
+        }
+    }
+
+    .slider {
+        height: 500px;
+        display: flex;
+        position: absolute;
+        left: 0;
+        .container {
+            width: 100vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            .item{
+                width: 700px;
+                height: 100%;
+                background-color: white;
+                border-radius: 20px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                .left{
+                    flex: 4;
+                    height: 100%;
+                    padding-left: 10px;
+                    background-color: paleturquoise;
+                    
+                    
+                    align-items: center;
+                    justify-content: center;
+
+                    display: flex;
+                    flex-direction: column;
+                    
+            
+                }
+
+                .right {
+                    flex-direction: column;
+                    padding-left: 20px;
+                    padding-right: 20px;
+                }
+
+                    
+                    
+                    
+
+
+                
+
+
+
+
+                .right {
+                    flex: 8;
+                    height: 100%;
+                    display: flex;
+
+                    align-items: center;
+                    justify-content: center;
+
+                    img{width: 400px
+                    }
+                }
+            }
+
+            
+        }
+    }
+
+    
 }
