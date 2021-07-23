@@ -220,7 +220,7 @@ export default function Works() {
                 </div>
             </div>
 
-            <span>Hello</span>
+            
 
             <img src="../../assets/arrow.png" className="arrow left" alt="" onClick= {() => handleClick("left")}/>
             <img src="../../assets/arrow.png" className="arrow right" alt="" onClick = {() => handleClick("right")}/>
