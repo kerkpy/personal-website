@@ -37,6 +37,8 @@ export default function Portfolio() {
         <div className="portfolio" id = "portfolio">
             <h1> Portfolio </h1>
 
+            <span><i>"I have never seen somebody so smart yet so dumb before"</i> - Goh Yu Heng, friend of KerkPY, probably</span>
+
             <ul>
                 {list.map((item) =>(
                     <PortfolioList 

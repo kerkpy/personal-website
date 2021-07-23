@@ -1,6 +1,11 @@
+@import "../../global.scss";
+
 .intro{
     background-color: white;
     display:flex;
+
+    
+
 
     .left{
         flex: 0.5;
@@ -12,11 +17,14 @@
             background-color: darkolivegreen;
             border-radius: 50%;
             display:flex;
-            vertical-align: bottom;
+            align-items:flex-end;
+            justify-content: center;
             float: left;
-        
+
             img {
                 height:95%;
+
+                
 
             }
 
