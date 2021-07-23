@@ -23,7 +23,7 @@ export default function Works() {
                 <div className="container">
                     <div className="item">
                         <div className="left">
-                                    <img src ="assets/ocbc-og.PNG" alt="ocbc"/>
+                                    <img src ="assets/ocbc-og.png" alt="ocbc"/>
                         </div>
 
                         <div className="right">
@@ -99,7 +99,7 @@ export default function Works() {
                         <div className="left">
 
                             
-                                    <img src ="assets/hcanoe.PNG" alt="hc"/>
+                                    <img src ="assets/hcanoe.png" alt="hc"/>
 
                                     
                         </div>
