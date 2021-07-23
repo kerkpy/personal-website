@@ -222,8 +222,8 @@ export default function Works() {
 
             
 
-            <img src="../../assets/arrow.png" className="arrow left" alt="" onClick= {() => handleClick("left")}/>
-            <img src="../../assets/arrow.png" className="arrow right" alt="" onClick = {() => handleClick("right")}/>
+            <img src="assets/arrow.png" className="arrow left" alt="" onClick= {() => handleClick("left")}/>
+            <img src="assets/arrow.png" className="arrow right" alt="" onClick = {() => handleClick("right")}/>
             
 
 
